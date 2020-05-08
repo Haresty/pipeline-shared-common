@@ -13,4 +13,10 @@ import java.time.*
 
 def init() {
   print "init ..."
+  return this
+}
+
+
+def printInfo() {
+  print "print info ..."
 }
